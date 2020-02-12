@@ -1,2 +1,3 @@
 # Invoice-Generator
- Program to create invoice objects from user supplied invoice number/amount
+ This program accepts an invoice number and amount from the user and 
+ uses the information to create new invoice objects. 
